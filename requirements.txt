@@ -1,5 +1,5 @@
 openai
--U langchain-community
+langchain-community
 faiss-cpu
 streamlit
 PyPDF2
